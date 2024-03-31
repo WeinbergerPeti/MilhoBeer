@@ -1,0 +1,26 @@
+#cim
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#cim img
+{
+    width: 30%;
+    margin-top: -100px;
+}
+
+nav
+{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 75px;
+}
+
+footer
+{
+    margin-top: 100px;
+}
