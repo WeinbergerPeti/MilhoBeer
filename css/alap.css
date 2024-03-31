@@ -30,10 +30,6 @@ header
     margin-top: -100px;
 }
 
-.menu
-{
-    margin: 20px;
-}
 
 .menuKep
 {
@@ -51,10 +47,11 @@ header
 
 .menuSzoveg
 {
-    font-family: 'Berlin Sans FB', bold, sans-serif;
+    font-family: 'Berlin Sans FB', sans-serif;
     text-align: center;
     color: #fbbb3a;
     font-size: 26pt;
+    font-weight: bold;
 }
 
 footer
