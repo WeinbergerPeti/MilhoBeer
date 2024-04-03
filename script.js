@@ -18,8 +18,8 @@ document.addEventListener('DOMContentLoaded', function() {
         setTimeout(function() {
             beer.classList.remove('top');
             beer.classList.remove('full');
-          window.location.href = "masik.html"; // Az új oldal URL-jére navigál
-        }, 5000);
+          window.location.href = "marka.html"; // Az új oldal URL-jére navigál
+        }, 1000);
       }, 500);
     });
   });
